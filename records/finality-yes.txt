@@ -1,0 +1,12 @@
+Outcome-Market-Evidence: outcome-market-evidence-v1
+Record-ID: genlayer-finality-yes-2026-08-19
+Question: Does a finalized GenLayer transaction represent a permanent and irreversible result after the appeal window closes?
+Policy: Resolve YES only if both records state that finalization follows the appeal window and makes the result permanent and irreversible; resolve NO only if both state the opposite; otherwise return inconclusive.
+Authority: GenLayer Labs
+Authoritative-Source: https://raw.githubusercontent.com/genlayerlabs/genlayer-docs/9699f3900dd697689090f6595f5c14b4f0a60fdf/pages/understand-genlayer-protocol/optimistic-democracy-how-genlayer-works.mdx
+Source-Observed-At: 1787104700
+Evidence-Published-At: 1787104766
+Evidence-Expires-At: 1787709566
+Source-Digest: 844d219afb599bc08c51d9580458bf88d68f8f9947aa90562f9aa3dfc4c26a0e
+
+The official source describes Finalized as the point reached after the appeal window and states that the resulting decision is permanent and irreversible.
