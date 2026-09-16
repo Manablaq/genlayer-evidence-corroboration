@@ -1,0 +1,12 @@
+EvidenceGate-Live-Evidence: evidencegate-bradbury-live-v1
+Record-ID: evidencegate-canonical-finalized-2026-09-16-corroboration
+Claim: The canonical EvidenceGate deployment transaction 0x6a113c20d92b1e3870482a7ae54d9f990fefc02f1afae82d32c9303328bc962a on GenLayer Bradbury chain ID 4221 is Finalized.
+Contract: 0xC22b2A38EC21Dd69887f338039a137E8945CF13e
+Deployed-Source-SHA256: 776dcd2ce4b0e6844d184831efe4b3e2b9b46eab2116d975bcf2f670b57562e5
+Observed-Status: Finalized
+Observed-Status-Code: 7
+Evidence-Published-At: 1789529732
+Evidence-Expires-At: 1790134532
+Authority-Role: EvidenceGate corroborating live-test publisher
+
+This independently corroborating record states that the same canonical EvidenceGate deployment reached Finalized status on Bradbury with the same deployed-source SHA-256 identity.
