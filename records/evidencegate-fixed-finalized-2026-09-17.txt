@@ -1,0 +1,14 @@
+EvidenceGate-Live-Evidence: evidencegate-fixed-bradbury-v1
+Record-ID: evidencegate-fixed-finalized-2026-09-17-corroboration
+Claim: The canonical fixed-source EvidenceGate deployment transaction 0xa3849f47e9f2e97b7957544407000a996398772dd716ba36bf5f6f1544122a1e on GenLayer Bradbury chain ID 4221 is Finalized.
+Contract: 0xbd403771f876F72540319480EC2453d01de27a2b
+Deployed-Source-SHA256: 6b5c31c786f3b8af0df559ae831b93083dbbe4ee23552a40c268edf633f80ad1
+Observed-Status: Finalized
+Observed-Status-Code: 7
+Evidence-Published-At: 1789628180
+Evidence-Expires-At: 1790232980
+Intended-Policy-ID: c6dcb70bcf8f024972ddca6c9ea498844f896c8f845a692655e69d9f35fc5122
+Policy-Fingerprint: 4123169fde60475e1e6b831d8c1d6aed1f505597662360d121e9453e719c9bc8
+Initialization-Packet-SHA256: 0f68315cd1c0bae83df85dbb54413a14bed40dd603ccfa9f75ab4538daef2b5d
+Authority-Role: EvidenceGate corroborating fixed-deployment live-test publisher
+This corroborating record states that the same canonical fixed-source EvidenceGate deployment reached Finalized status on Bradbury with the same finalized deployed-source SHA-256 identity.
