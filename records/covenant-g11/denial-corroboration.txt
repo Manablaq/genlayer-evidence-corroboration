@@ -1,0 +1,23 @@
+Covenant-Test-Evidence: covenant-g11-rejection-evidence-v1
+Environment: supported-runtime-local-chain-61999
+Purpose: deterministic rejection-path verification only
+Record-ID: covenant-g11-corroboration-1790332086
+Publisher: Covenant Corroboration Test Authority
+Role: CORROBORATION
+
+Action-Type: PAYMENT
+Target: contract://merchant/42
+Recipient-Hex: 6666666666666666666666666666666666666666
+Value: 250000
+Payload: {"invoice":"INV-2030-0001"}
+
+Claim: NOT_PERMITTED
+Statement: This independent corroboration test record states that the exact payment tuple above is not permitted because the invoice authorization is disputed.
+
+Source-Observed-At: 1790332086
+Evidence-Published-At: 1790332086
+Evidence-Expires-At: 1790936886
+
+Freshness-Policy-Intent: This record is valid only inside the explicit seven-day test window above.
+Immutability-Intent: The supported-runtime test MUST reference this exact file by immutable Git commit SHA.
+Production-Use: PROHIBITED
